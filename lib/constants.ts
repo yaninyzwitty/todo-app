@@ -1,0 +1,1 @@
+export const links = ["Store", "Mac", "Iphone", "Support"]
